@@ -1,0 +1,124 @@
+﻿
+           qgWWWp  iggggggg,,       Qggg,                  Qggg,,      ,Qggggggg,, qWWBpp
+         .qWWWWWgWWEEBggggEENWgp, gWWWWWWBp,  gWp, gBp  qgWWWWWWBp,.gpWEEEgggBEEEWWgWWWWWh,
+     qgWWEQWWWWWWWWEggggggEE"WgEWdWWWWWWWWWBpJWWEgQQWW-qWWWWWWWWWWbWQpW"EQgggggpEWWWWWWWWQEWWpp
+   qWW"gWWWEWWWWQgWWW"""WWWWBggBWpTggggpBWWWWpJWWWWWW2gWWWWEggggp2qWEggWWWWW"""WWWgEWWWWEWWWp"WBp
+  qWF dKgWWWWBp,""        "WWWWWpqWWWWWWBJWWWWWBgpqgWWWWWWhWWWWWWWpqWWWWW"        ""qgWWWWBpNE WBp
+  dWbqWdWWWWWWWBp          @WWWWHWWWF9gWWggggggggWWgpgggggpWBgCWWWWHFWWWE          qWWWWWWWWEWpdWE
+  4WbdBJWWWWWWWWE          JWWBFdWWWB, gWWWWWWWWWEEWWWWWWWWBp, WWWWEWEWWR          dWWWWWWWWRWbdWE
+  JWE/Wp"WW WWWWE           qW"qWWWWWEqQEEEEQggWWWWWBgpEEEEQg,qWWWWB,"Bp           4WWWW WWFqW dWh
+   @WpJWpWWgWWWW\          dWBgWWWWWWE WWWWWWWW"^  7"WWWWWWWF WWWWWWBgWWb          JWWWWpWBgW"qWF
+   JWEdBgEqWWWW\            WWWWWWWWWR  7""""          """"^  JWWWWWWWWW            /WWWWpqgWbdW\
+    WEJWWhWWW"               "WWWWWW"                          "WWWWWW"               "WWWHWW\@F
+    @# MWMWEqp                                                                        qp@WNWF W#
+    @E  WWWWWF                                                                        WWWWWF  WE
+    dE                                                                                        WE
+    dW             qg,        qgg,        ggp   qggggggggQ,,      qgg      .Qgggggggg,,       WE
+    dW           qgWWWp,      dWWb       dWWE   dWWb   `"""WBp,   @WW    gWW""^    ""WWBp     WE
+    dW         qgWW\ 7WWp,    dWWb       dWWE   dWWb       dWWE   @WW   dWWE          @WW-    WE
+    dW       qgWWWWWWWWWWWp,  JWWp,,   .igWWR   dWWb,,,,,ggWWF    @WW    "WBp,,    ,ggWW"     Wb
+    dWh     J"""         """-   """""""""""     J""""""""""       """      7""""""""""       dWb
+    dWh                                                                                      dWb
+    dWb                                                                                      dWh
+    dWb     WWWE      dWWWWWWWWWWWWWWWWb  iggWWWWBpp   dWWWWWWWWWWgp,  WWWp    gggWWBgpp     dW-
+     Wb     WWWE      dWWWWWWWWWWWWWWWWb gWWWWWWWWWWp, dWWWWWWWWWWWWB  WWWE  qWWWWWWWWWWp,   dW
+     Wb     WWWE      dWWE    dWWWb     qWWW"    "WWWE dWWE      gWWW-      qWWWW"   "WWWE   dW
+     Wb     WWWE      dWWE    dWWWb     4WWE      dWWW dWWWWWWWWWWWWF  WWWE dWWW      dWWWh  dW
+     WE     @WWB,    qWWWF    dWWWb     JWWBp    qdWWF dWWWWWWWWWW""   WWWE dWWWggggggMWWWb  dE
+     WE     /WWWBggggWWWW\    dWWWb      WWWWBgggWWWW\ dWWE            WWWE dWWWWWWWWWWWWWb  dE
+     @E       "WWWWWWWWF      dWWWb       "WWWWWWWW"   dWWE            WWWE dWWW      dWWWb  d#
+     @E         7""""^        /"""\          7"""      """"            """" J"""      /"""\  dE
+     @#                                                                                      @E 
+     d#                               AudioUTOPiA Proudly Presents                           @E
+     d#   *******************************************************************************    @E
+     d#                                 Avid Pro Tools HD v12.5.0.395                        @E
+     d#   *******************************************************************************    @E
+     d#                                                                                      @E
+     d#   -------------------------------------------------------------------------------    @E
+     d#                                   Release Info                                       @E
+     d#   -------------------------------------------------------------------------------    @E
+     d#   Type.................: EXE/DLL/AAX                                                 @E
+     d#   Platform.............: Windows x64                                                 @E
+     d#   Homepage.............: http://www.avid.com/US/products/family/Pro-Tools            @E
+     d#   Copy Protection......: iLok 3.0.1134 Wrapper + Fusion                              @E
+     d#   Date.................: 09.April.2016                                               @E
+     d#                                                                                      @E
+     d#   -------------------------------------------------------------------------------    @E
+     d#                                   Release Notes                                      @E
+     d#   -------------------------------------------------------------------------------    @E
+     d#                                                                                      @E
+     d#   AudioUTOPiA's Pro Tools release gives you flexibility like no other release:       @E
+     d#   * no drivers needed for stock plugins and release                                  @E
+     d#   * startup performance and project load times much much faster                      @E
+     d#   * load any AAX you like, original or patched                                       @E
+     d#   * load any VST you like in combination with R2R's TransVST release and             @E
+     d#       AudioUTOPiA's special post process fix tool                                    @E
+     d#   *Mp3 Exports                                                                       @E
+     d#                                  Pro Tools Family                                    @E
+     d#                                                                                      @E
+     d#   Compose, record, edit, and mix high-quality music or sound for picture—on a Mac or @E
+     d#   PC—using Pro Tools, the industry-standard audio production platform. Design the    @E
+     d#   perfect setup for your needs with a wide array of Pro Tools solutions—from         @E
+     d#   hardware interfaces and consoles to software, plug-ins, and more.                  @E
+     d#                                                                                      @E
+     d#   -------------------------------------------------------------------------------    @E
+     d#                                   Install Notes                                      @E
+     d#   -------------------------------------------------------------------------------    @E
+     d#                                                                                      @E
+     d#   1) run Pro Tools\setup.exe                                                         @E
+     d#   2) Install from menu                                                               @E
+     d#   3) 'njoy and have fun! :)                                                          @E
+     d#                                                                                      @E
+     d#   -------------------------------------------------------------------------------    @E
+     d#                                Special Install Notes                                 @E
+     d#   -------------------------------------------------------------------------------    @E
+     d#                                                                                      @E
+     d#   Disable Driver:                                                                    @E
+     d#   ~~~~~~~~~~~~~~~                                                                    @E
+     d#                                                                                      @E
+     d#   Pro Tools setup will install the ilok driver however its not necessary for the     @E
+     d#   release to work, you can disable it by pressing windows key+R then typing          @E
+     d#   services.msc, find "PACE License Services" right click and choose stop.            @E
+     d#   additionally you can remove the entire thing by going to windows                   @E
+     d#   programs and features and uninstalling "PACE License Support Win64"                @E
+     d#   Only if you own any legit Ilok plugins does it makes sense to keep the driver.     @E
+     d#                                                                                      @E
+     d#   Using a VST:                                                                       @E
+     d#   ~~~~~~~~~~~~                                                                       @E
+     d#                                                                                      @E
+     d#   1) Install TransVST (special thanks to R2R for allowing us to include this)        @E
+     d#   2) Wrap your VST                                                                   @E
+     d#   3) Move it from C:\Program Files (x86)\Common Files\Avid\Audio\Plug-Ins            @E
+     d#      to  C:\Program Files\Common Files\Avid\Audio\Plug-Ins  !!                       @E
+     d#   4) go into Contents\x64 folder                                                     @E
+     d#   5) drag and drop your .aaxplugin file onto the TransVST_Fixer.exe                  @E
+     d#   6) delete the .aaxplugin and replace with the new file indicated by the fixer      @E
+     d#   7) n'joy and have fun! :D                                                          @E
+     d#                                                                                      @E
+     d#   -------------------------------------------------------------------------------    @E
+     d#                                   SHOUTS                                             @E
+     d#   -------------------------------------------------------------------------------    @E
+     d#                                                                                      @E
+     d#                                                                                      @E
+     d#                    AudioUTOPiA Sprinkling the Pixie Dust                             @E
+     d#                                                                                      @E
+     d#               Greetz to all the hard working teams, both P2P and scene.              @E
+     d#                         Let's refresh things a bit! ;)                               @E
+     d#                                                                                      @E
+     d#                                                                                      @E
+     d#                                                                                      @E
+     d#                                                                                      @E
+     d#   .,gg,                                                                      qgp ,   @E
+     @E  gWWWWB                                                                      WWWWWp  @E
+     @E qWNWE""                ggggpp                          ggggpp,               ""dWMWp @#
+     WE WWEWWBp              qWWWWWWWB,  .,,,          ,,,,  qWWWWWWWBp              gWWWdWB 4B
+    qWb TBBpWWWBp            WWWWWWWWWEqWWWWWWgp,  qggWWWWWBpdWWWWWWWWB            qdWWWQgEF dWp
+    WF qWWBWUWWWBp           WE,"WWWWWR@WWWWWWWWWBWWWWWWWWWW#dWWWWW"\dF           qWWWWUWFWBp WB
+   qWE WEgWE,WWWWE          qgQWpdWWWW  qgWWWWggQEEgggWWWWgp /WWWWEgWQg,          @WWWE,WWpJE dWp
+   dWb WqWWWWWWWWF          dWWBQWWWWE mqEWWWWWWWWWWWWWWWWQpm dWWWqBWWWh          @WWWWWWWWpW dWE
+   JWE WdWWWWWWWW\          dWWWWFJWWWggWW QgggggpqggggpQ WBggWWWR@WWWWE          JWWWWWWWWHW dWh
+    @WpJEJWWWWWEQWpp,    igWWWWWWQpJWWWWWWgWWWW"QgpQ"WWWWpWWWWWWEgQWWWWWBp,    .ggWQEWWWWWEdRqWE
+     "WpJWWggWWWWpBWWWWWWWWWWWLgWW2gpQ2EQgWWWW"qWWWWpJWWWWBQE2Qgp"WWp2WWWWWWWWWWWEgWWWBggWWEgW"
+       "WWWWqWWWWWWBgEEEEEQggWWQgWEWWWWWWWWWW" JWWWWR JWWWWWWWWWFJWpEWWggEEEEEBpWWWWWWWpWWWW"
+            JWWWWE""WWWEEEBgpWW""   "WWWWWW"            "WWWWWW"   ""WWggEEEEBWW""WWWWWR
+             "WWWW"    `"""`              nfo by: DAWinci               `"""^    JWWWW"

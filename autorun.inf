@@ -1,0 +1,5 @@
+[AutoRun]
+Open=Setup.exe
+Icon="HD app.ico"
+[MenuBox]
+Directory="Pro Tools Installer"
